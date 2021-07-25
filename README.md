@@ -9,9 +9,9 @@ AIM: This Project is aimed at creating a Billing System which contains an applic
 PROJECT OVERVIEW
 
 The Package BillingSystem contains 5 files
-1.child_billingsystem
-2.interface
-3.MainFunction
+1.child_billingsystem\
+2.interface\
+3.MainFunction\
 4.Parent_billingsytem
 5.Oops_billingSystem
 
@@ -23,20 +23,21 @@ I have used WindowBuilder to make the Application window which made my job a who
 To create the billing system window,I have used the window builder which allowed me to drag and drop the text fields,check boxes,labels.
 
 The concepts illustarted in this project are :
--Abstraction- Classes.
--Scope and Lifetime of variables.
--Declaring objects.
--Instance Variables of different data types.
--Constructors/Methods.
--'this' keyword.
--Inheritance.
--Overriding.
--Access control mechanism.
--Packages.
--Interfaces.
--Exception Handling.
--Creation of thread to execute a certain process.
--Few string handling mechanisms 
+
+1.Abstraction- Classes.
+2.Scope and Lifetime of variables.
+3.Declaring objects.
+4.Instance Variables of different data types.
+5.Constructors/Methods.
+6.'this' keyword.
+7.Inheritance.
+8.Overriding.
+9.Access control mechanism.
+10.Packages.
+11.Interfaces.
+12.Exception Handling.
+13.Creation of thread to execute a certain process.
+14.Few string handling mechanisms 
 
 The Billing window contains:
 1.The name of each item along with its unit price.
