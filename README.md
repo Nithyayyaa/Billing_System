@@ -23,30 +23,30 @@ I have used WindowBuilder to make the Application window which made my job a who
 To create the billing system window,I have used the window builder which allowed me to drag and drop the text fields,check boxes,labels.
 
 The concepts illustarted in this project are :
-1.Abstraction- Classes.
-2.Scope and Lifetime of variables.
-3.Declaring objects.
-4.Instance Variables of different data types.
-5.Constructors/Methods.
-6.'this' keyword.
-7.Inheritance.
-8.Overriding.
-9.Access control mechanism.
-10.Packages.
-11.Interfaces.
-12.Exception Handling.
-13.Creation of thread to execute a certain process.
-14.Few string handling mechanisms 
+-Abstraction- Classes.
+-Scope and Lifetime of variables.
+-Declaring objects.
+-Instance Variables of different data types.
+-Constructors/Methods.
+-'this' keyword.
+-Inheritance.
+-Overriding.
+-Access control mechanism.
+-Packages.
+-Interfaces.
+-Exception Handling.
+-Creation of thread to execute a certain process.
+-Few string handling mechanisms 
 
 The Billing window contains:
 1.The name of each item along with its unit price.
 2.The text field for each product to enter the quantity.
 3.Alphabetical characters cannot be entered in the text field
 4.There are 4 buttons-
-a.Total=> Displays the sub total,GST,total of all the items and displays it in the text boxes placed in front of their labels.
-b.Receipt=>Displays the total Receipt in the blank space on the right side
-c.Reset=>Resets all the text field.
-d.Exit=>Exit from the application 
+-Total=> Displays the sub total,GST,total of all the items and displays it in the text boxes placed in front of their labels.
+-Receipt=>Displays the total Receipt in the blank space on the right side
+-Reset=>Resets all the text field.
+-Exit=>Exit from the application 
 5.Discount: The area contains check boxes for various percentages of discount.If the checkbox is checked in front of 10%, the total will be calculated after a 10% reduction.
 
 
